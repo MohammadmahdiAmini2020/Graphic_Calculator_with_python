@@ -5,7 +5,7 @@ from tkinter import messagebox, messagebox
 import math
 from PIL import ImageTk, Image  # For import image
 import time
-print("hello")
+
 
 #----------------- `Create App` ---------------
 
